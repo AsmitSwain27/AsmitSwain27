@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmit Swain</h1>
 <h3 align="center">A passionate learner & developer</h3>
 
-- 🌱 I’m currently learning **Backend Development, Java**
+- 🌱 I’m currently learning **Full stack Development, Java**
 
 - 📫 Reach me @ **swain.asmit2006@gmail.com**
 
