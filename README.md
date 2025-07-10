@@ -22,5 +22,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitswain27&label=Profile%20views&color=0e75b6&style=flat" alt="asmitswain27" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmitswain27&show_icons=true&locale=en" alt="asmitswain27" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitswain27&" alt="asmitswain27" /></p>
+<!-- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitswain27&" alt="asmitswain27" /></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmitswain27&show_icons=true&locale=en&layout=compact" alt="asmitswain27" /></p>
