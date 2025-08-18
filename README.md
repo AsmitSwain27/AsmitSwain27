@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Unity+Game+Creator;Passionate+Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Unity+Game+Creator;Passionate+Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -162,7 +162,7 @@
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things+together!;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things+together!;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### Show some ❤️ by starring some of my repositories!
 
