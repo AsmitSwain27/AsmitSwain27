@@ -106,16 +106,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsmitSwain27&label=Profile%20views&color=0e75b6&style=flat)
 
-</div>
-
+</div> 
+<!-- 
 ## 🏆 GitHub Trophies:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AsmitSwain27&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Asmit's Github Trophies](https://github-profile-trophy.vercel.app/?username=AsmitSwain27&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
+-->
 <!--
 ## 📈 Activity Graph:
 
