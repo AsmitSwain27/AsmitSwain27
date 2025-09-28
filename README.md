@@ -84,6 +84,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 
 </div>
@@ -146,8 +148,10 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=Portfolio-Asmit_Swain&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Portfolio-Asmit_Swain)
+[![HAVitSync](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=HAVitSync&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/HAVitSync)
+[![HAVitSync App](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=HAVitSync_App&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/HAVitSync_App)
 [![Flappy Bird](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=Flappy-Bird&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Flappy-Bird)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AsmitSwain27&repo=Portfolio-Asmit_Swain&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AsmitSwain27/Portfolio-Asmit_Swain)
 
 </div>
 
@@ -167,5 +171,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things+together!;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### Show some ❤️ by starring some of my repositories!
+
+
+#### Made with ❤️ by Asmit Swain
 
 </div>
